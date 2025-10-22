@@ -408,7 +408,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/pubg-frustration-analysis?style=social" alt="GitHub stars">
-  <img src="https://img.shields.io/github/forks/yourusername/pubg-frustration-analysis?style=social" alt="GitHub forks">
+  <img src="https://img.shields.io/github/stars/dganesh05/pubg-frustration-analysis?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/github/forks/dganesh05/pubg-frustration-analysis?style=social" alt="GitHub forks">
 </p>
-```
